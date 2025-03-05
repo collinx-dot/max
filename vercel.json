@@ -2,10 +2,5 @@
     "rewrites": [
         { "source": "/api/:path*", 
         "destination": "/index.js" }
-    ],
-    "function": {
-        "index.js": {
-            "runtime": "nodejs18.x"
-        }
-    }
+    ]
 }
