@@ -1,0 +1,99 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "Roll": "2000",
+            "Photo": "photo",
+            "Name": "Increase Godwin",
+            "Gender": "Male",
+            "Class": "2",
+            "Section": "A",
+            "Parent": "Jack Sparrow",
+            "Address": "TA-107 Newyork",
+            "Date_Of_Birth": "02/05/2001",
+            "Phone": "+ 123 9988568",
+            "Email": "kazifahim93@gmail.com"
+          },
+          {
+            "id": 2,
+            "Roll": "2000",
+            "Photo": "photo",
+            "Name": "Mark Willy",
+            "Gender": "Male",
+            "Class": "2",
+            "Section": "A",
+            "Parent": "Jack Sparrow",
+            "Address": "TA-107 Newyork",
+            "Date_Of_Birth": "02/05/2001",
+            "Phone": "+ 123 9988568",
+            "Email": "kazifahim93@gmail.com"
+          },
+          {
+            "id": 3,
+            "Roll": "2000",
+            "Photo": "photo",
+            "Name": "Mark Willy",
+            "Gender": "Male",
+            "Class": "2",
+            "Section": "A",
+            "Parent": "Jack Sparrow",
+            "Address": "TA-107 Newyork",
+            "Date_Of_Birth": "02/05/2001",
+            "Phone": "+ 123 9988568",
+            "Email": "kazifahim93@gmail.com"
+          },
+          {
+            "id": 4,
+            "Roll": "2000",
+            "Photo": "photo",
+            "Name": "Mark Willy",
+            "Gender": "Male",
+            "Class": "2",
+            "Section": "A",
+            "Parent": "Jack Sparrow",
+            "Address": "TA-107 Newyork",
+            "Date_Of_Birth": "02/05/2001",
+            "Phone": "+ 123 9988568",
+            "Email": "kazifahim93@gmail.com"
+          },
+          {
+            "id": 5,
+            "Roll": "2000",
+            "Photo": "photo",
+            "Name": "Mark Willy",
+            "Gender": "Male",
+            "Class": "2",
+            "Section": "A",
+            "Parent": "Jack Sparrow",
+            "Address": "TA-107 Newyork",
+            "Date_Of_Birth": "02/05/2001",
+            "Phone": "+ 123 9988568",
+            "Email": "kazifahim93@gmail.com"
+          },
+          {
+            "id": 6,
+            "Roll": "300",
+            "Name": "collins",
+            "Gender": "Male",
+            "Class": "3.61",
+            "Section": "Front-Dev",
+            "Address": "asaba",
+            "Date_Of_Birth": "2021-10-20",
+            "Phone": "65875757",
+            "Email": "chibuikemcollins61@gmail.com"
+          },
+          {
+            "id": 7,
+            "Roll": "300",
+            "Name": "collins",
+            "Gender": "Male",
+            "Class": "3.61",
+            "Section": "Front-Dev",
+            "Address": "asaba",
+            "Date_Of_Birth": "5000",
+            "Phone": "65875757",
+            "Email": "chibuikemcollins61@gmail.com",
+            "Parent": "Mrs Maria Obi"
+          }
+    ]
+}
